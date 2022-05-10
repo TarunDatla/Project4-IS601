@@ -176,7 +176,7 @@ LOGGING_CONFIG = {
             'handlers': ['file.handler.request'],
             'level': 'DEBUG',
             'propagate': False
-        },
+        }
 
     }
 }
